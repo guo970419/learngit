@@ -1,3 +1,0 @@
-Git is public  version control system.
-Git is really a free system.
-I ad something:
